@@ -1,0 +1,2 @@
+rootProject.name='WorkkerRequestSample'
+include ':app'
