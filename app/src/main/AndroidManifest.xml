@@ -17,7 +17,6 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name="br.com.angelorobson.www.workkerrequestsa.UploadWorker" />
     </application>
 
 </manifest>
